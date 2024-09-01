@@ -1,6 +1,4 @@
-<div align="center">
 ![coding gif](img/coding.gif)
-</div>
 
 ## Hey, I'm Yassine 👋🏻
 
