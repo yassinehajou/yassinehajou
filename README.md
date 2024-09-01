@@ -1,5 +1,5 @@
 <div align="center">
-![coding-gif](https://github.com/yassinehajou/yassinehajou/blob/main/coding.gif)
+![coding gif](img/coding.gif)
 </div>
 
 ## Hey, I'm Yassine 👋🏻
