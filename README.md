@@ -15,11 +15,7 @@ I'm a second-year Software Engineering student at Concordia University based in 
 ## ✨ Fun Facts
 
 - I love playing Sports 🏀 ⚽️ 🥋
-<<<<<<< HEAD
 - And I also love fragrances 🥥
-=======
-- And I also love fragrances
->>>>>>> c5fc2e8c0a48fe3385cb5222aaae4f230a7fc1f9
 
 ## 📫 Contact
 
