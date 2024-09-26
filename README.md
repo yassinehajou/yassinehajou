@@ -7,7 +7,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 
-<h2>Languages, Frameworks, Libraries</h2>
+<h1>Languages, Frameworks, Libraries</h1>
 
 
 ## JavaScript
